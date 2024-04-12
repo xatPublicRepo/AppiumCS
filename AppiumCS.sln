@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppiumCS", "AppiumCS\AppiumCS.csproj", "{5DBF78BE-AB2F-4644-B405-CD22743EDBE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppiumCSLearning", "AppiumCSLearning\AppiumCSLearning.csproj", "{1C130A69-55DA-4D00-A6BC-04CF31CE124C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DBF78BE-AB2F-4644-B405-CD22743EDBE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBF78BE-AB2F-4644-B405-CD22743EDBE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBF78BE-AB2F-4644-B405-CD22743EDBE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBF78BE-AB2F-4644-B405-CD22743EDBE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C130A69-55DA-4D00-A6BC-04CF31CE124C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C130A69-55DA-4D00-A6BC-04CF31CE124C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C130A69-55DA-4D00-A6BC-04CF31CE124C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C130A69-55DA-4D00-A6BC-04CF31CE124C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3AE5AC9-53C9-4068-972E-B040431E0F41}
+	EndGlobalSection
+EndGlobal
